@@ -1,0 +1,24 @@
+{
+  "name": "poffa661",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poffa661/news.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"ws108411": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
